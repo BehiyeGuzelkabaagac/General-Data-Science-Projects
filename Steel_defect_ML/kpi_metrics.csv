@@ -1,0 +1,7 @@
+Metric,Value
+Total_Plates,1941
+Defect_Types,7
+Best_F1_Score,0.98
+Best_Model,K_Scatch
+Avg_F1_Score,0.7721428571428571
+Ready_Models,3

@@ -1,0 +1,8 @@
+Defects,samples,prevalence,accuracy,precision,recall,f1_score,train_time,samples_numeric
+Other_Faults,673,34.7%,766,677,622,649,32,673
+Bumps,402,20.7%,828,58,63,604,29,402
+K_Scatch,391,20.1%,992,1000,962,980,35,391
+Z_Scratch,190,9.8%,987,923,947,935,33,190
+Pastry,158,8.1%,907,463,781,581,37,158
+Stains,72,3.7%,995,929,929,929,33,72
+Dirtiness,55,2.8%,985,727,727,727,38,55

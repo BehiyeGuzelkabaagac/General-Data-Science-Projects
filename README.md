@@ -1,6 +1,3 @@
-# Data-Science-Analytics-Portfolio
-
-Welcome to my Data Science & Analytics portfolio! This repository showcases a selection of my projects that demonstrate my expertise in machine learning, data analysis, and unsupervised learning techniques. Each project is designed to solve real-world problems using data-driven approaches.
 
 ## 🗂️ Projects Overview
 
